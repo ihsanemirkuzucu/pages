@@ -1,0 +1,18 @@
+.paginationU
+{
+    justify-content: center;
+    margin-top: 50px;
+}
+.mainImg
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ımg
+{
+    align-items: center;
+    max-width: 700px;
+    max-height: 700px;
+}
